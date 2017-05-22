@@ -30,9 +30,13 @@ pip install matplotlib
 # Running the tests
 ## python
 open terminal and type the following command
+```
 python KmeansPractice.py
+```
 or
+```
 python your_python_file_name.py
+```
 
 # Built with
 
