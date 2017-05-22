@@ -10,6 +10,8 @@ Ngôn ngữ lập trình chính:
 
 ![alt text](https://lh3.googleusercontent.com/-U2g06xP0A14/WSMXVokkOdI/AAAAAAAABe4/oLDCyREGRhEcrQcpXxlnCj6R-9k5XOufwCL0B/w530-d-h398/iteration_all.gif)
 
+![alt text](https://lh3.googleusercontent.com/-ax_DQotBpT4/WSM3h9qy32I/AAAAAAAABfo/3s5qUlDXjWoQ5jt9rYiNaYSfXVdb9cbawCL0B/w530-d-h398/MixtureOfGaussians.gif)
+
 # Prerequisites
 ## Python
 python 2.7 
