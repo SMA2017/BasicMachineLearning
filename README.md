@@ -18,14 +18,14 @@ Matplotlib
 
 
 # Installing
-'''
+```
 pip install 'numpy= your desired version'
-'''
+```
 
 Matplotlib
-'''
+```
 pip install matplotlib
-'''
+```
 
 # Running the tests
 ## python
