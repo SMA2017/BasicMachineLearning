@@ -1,3 +1,4 @@
+
 # BasicMachineLearning
 
 # Getting started
@@ -17,9 +18,12 @@ Figure 2: Using EM algorithm for mixture of two two Gaussians data
 # Prerequisites
 ## Python
 python 2.7 
+
 Numpy
+
 Matplotlib
 
+Pandas
 
 # Installing
 ```
